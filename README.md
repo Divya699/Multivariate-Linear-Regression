@@ -49,7 +49,7 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
 
-### Insert your output
+
 
 <br>
 
